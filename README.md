@@ -49,7 +49,7 @@ The objective of this project is to:
 ![Scenario Screenshot](./)
 
 ### Telegram Notification
-![Telegram Message Preview](./telegram-message-preview.png)
+![Telegram Message Preview](./telegram notifier.png)
 
 ---
 
