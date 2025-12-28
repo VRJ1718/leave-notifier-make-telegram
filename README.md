@@ -46,10 +46,10 @@ The objective of this project is to:
 ## 🖼️ Project Preview
 
 ### Make.com Scenario
-![Scenario Screenshot](./)
+![Make.com Scenario](make.com%20scenario.png)
 
 ### Telegram Notification
-![Telegram Message Preview](./telegram notifier.png)
+![Telegram Notification](telegram%20notifier.png)
 
 ---
 
