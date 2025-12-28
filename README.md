@@ -45,12 +45,12 @@ The objective of this project is to:
 
 ## 🖼️ Project Preview
 
-### Make.com Scenario
+### Make.com Scenario:
 <p align="center">
   <img src="make.com%20scenario.png" width="600">
 </p>
 
-### Telegram Notification
+### Telegram Notification:
 <p align="center">
   <img src="telegram%20notifier.png" width="300">
 </p>
