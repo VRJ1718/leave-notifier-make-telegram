@@ -46,7 +46,7 @@ The objective of this project is to:
 ## 🖼️ Project Preview
 
 ### Make.com Scenario
-![Scenario Screenshot](./scenario-screenshot.png)
+![Scenario Screenshot](./[scenario-screenshot.png](https://github.com/VRJ1718/leave-notifier-make-telegram/blob/main/make.com%20scenario.png))
 
 ### Telegram Notification
 ![Telegram Message Preview](./telegram-message-preview.png)
